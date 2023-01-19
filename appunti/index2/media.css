@@ -1,0 +1,10 @@
+menu {
+  padding: 0px;
+  list-style-type: none;
+}
+menu li {
+  padding: 10px;
+  display: block;
+  text-align: center;
+  background-color: aqua;
+}/*# sourceMappingURL=media.css.map */
